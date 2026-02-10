@@ -4,7 +4,7 @@ This is a simple and interactive To-Do List web app built using HTML, CSS, and J
 It allows users to add, mark as completed, and remove tasks easily.  
 A perfect project to practice JavaScript fundamentals and DOM manipulation.
 
-Check it live here: [To-Do List App](https://mahmoud-657.github.io/To-Do-list/)
+Check it live here: [To-Do List App](https://mahmoud-657.github.io/To-Do-List-Web-App/)
 
 ## ✨ Features
 - Add new tasks dynamically  
