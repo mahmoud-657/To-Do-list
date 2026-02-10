@@ -15,9 +15,9 @@ Check it live here: [To-Do List App](https://mahmoud-657.github.io/To-Do-list/)
 - Built with pure HTML, CSS, and JavaScript  
 
 ## 🛠️ Built With
-HTML5
-CSS3
-JavaScript (ES6)
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ## 🎯 This project was created to:  
 - Practice JavaScript DOM manipulation and events  
